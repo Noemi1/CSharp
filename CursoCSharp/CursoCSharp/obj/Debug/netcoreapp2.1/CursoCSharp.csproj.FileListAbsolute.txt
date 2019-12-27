@@ -1,0 +1,11 @@
+C:\Users\Noemi\Documents\Cursos\Udemy\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.deps.json
+C:\Users\Noemi\Documents\Cursos\Udemy\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.runtimeconfig.json
+C:\Users\Noemi\Documents\Cursos\Udemy\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.runtimeconfig.dev.json
+C:\Users\Noemi\Documents\Cursos\Udemy\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.dll
+C:\Users\Noemi\Documents\Cursos\Udemy\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\CursoCSharp.pdb
+C:\Users\Noemi\Documents\Cursos\Udemy\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\Noemi\Documents\Cursos\Udemy\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Noemi\Documents\Cursos\Udemy\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Noemi\Documents\Cursos\Udemy\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfo.cs
+C:\Users\Noemi\Documents\Cursos\Udemy\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.dll
+C:\Users\Noemi\Documents\Cursos\Udemy\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.pdb
